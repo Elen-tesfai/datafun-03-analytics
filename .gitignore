@@ -1,5 +1,10 @@
-# Ignore project virtual environment in the .venv folder
+# This .gitignore file lists content that does NOT need to be tracked in the project history
+
+# Python virtual environment
 .venv/
 
-# Ignore Visual Studio Code settings in the .vscode folder
+# Visual Studio Code settings and workspace
 .vscode/
+
+# Compiled Python files
+__pycache__/
