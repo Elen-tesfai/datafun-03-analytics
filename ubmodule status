@@ -1,0 +1,6 @@
+[1mdiff --git a/datafun-03-spec b/datafun-03-spec[m
+[1m--- a/datafun-03-spec[m
+[1m+++ b/datafun-03-spec[m
+[36m@@ -1 +1 @@[m
+[31m-Subproject commit c8eaba6d534b6a051375e66e2c2d083187936cfa[m
+[32m+[m[32mSubproject commit c8eaba6d534b6a051375e66e2c2d083187936cfa-dirty[m
